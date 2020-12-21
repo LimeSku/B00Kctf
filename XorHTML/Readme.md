@@ -25,7 +25,7 @@ Cet en-tête, le voici : "\<!DOCTYPE html>".
 
 Testons cela sur CyberChef.
 
- ![alt text](https://github.com/Lime667/B00Kctf/XorXHTML/blob/master/cyberchef.png) 
+ ![alt text](https://github.com/Lime667/B00Kctf/blob/master/XorHTML/cyberchef.png) 
 
 <b>Output : </b>"V3RY53CUR3DKEY!" 
 
